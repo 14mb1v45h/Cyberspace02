@@ -3,7 +3,7 @@
  Distributed Denial of Services - DDoS 
 # Description
 
-**DDoSlayer** is an Offensive Security Tool written in Python3 by Chris 'SaintDruG' Abou-Chabke from Black Hat Ethical Hacking, designed to perform **Distributed Denial of Service (DDoS)** attacks.
+**DDoSlayer** is an Offensive Security Tool written in Python3 by 127001 designed to perform **Distributed Denial of Service (DDoS)** attacks.
 
 ### **Focus on Layer 7 Attacks**
 
